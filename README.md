@@ -1,1 +1,2 @@
-# El-encuadre-geogr-fico
+# El-encuadre-geográfico
+Antes de abocarnos al desarrollo de este tema, estimamos pertinente destacar que el territorio nacional debe ser estudiado como una entidad geomórfica integrada por tres ámbitos bien diferenciados: (a) el ámbito continental; (b) el ámbito insular y (c) el ámbito marítimo. Este criterio debemos tenerlo siempre presente al disponernos a analizar los problemas de la soberanía argentina, sin cuyo pleno reconocimiento no podría concebirse ningún modelo o proyecto nacional, ya que ella debe ser siempre su base de sustentación imprescindible. 
